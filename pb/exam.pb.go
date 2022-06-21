@@ -4,7 +4,7 @@
 // 	protoc        v3.19.4
 // source: exam.proto
 
-package __
+package pb
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
